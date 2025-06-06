@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e1",
+    "from_": "patient_jane@example.com",
+    "patient_name": "Jane Smith",
+    "subject": "Headaches",
+    "body": "Hi, I've been having persistent headaches every evening for the last 3 weeks. What should I do?",
+    "reply": "Subject: Re: Persistent Headaches\n\nDear Jane,\n\nThank you for reaching out to me regarding your persistent headaches. I'm sorry to hear that you've been experiencing this discomfort for the last three weeks.\n\nIt would be helpful to gather some additional information regarding your symptoms. Could you please describe the nature of your headaches (e.g., location, intensity, duration) and whether you have noticed any triggering factors or accompanying symptoms? This will assist me in understanding your situation better.\n\nI would recommend scheduling an appointment so we can discuss your symptoms in detail and determine the best course of action for relief and management. In the meantime, keeping a headache diary recording when they occur, their intensity, and any potential triggers may also be useful.\n\nLooking forward to your reply to my email.\n\nBest regards,\n\nDr. Josh Levin  \nJoy Clinic  \n1-800-645-7825"
+  },
+  {
+    "id": "e2",
+    "from_": "patient_joe@example.com",
+    "patient_name": "Joe Smith",
+    "subject": "Bill",
+    "body": "Hello, I have a question about my bill. It dosn't seem like it was processed through my insurance",
+    "reply": "Subject: Re: Question About Billing\n\nDear Joe,\n\nThank you for reaching out regarding your bill. I understand your concern about the insurance processing, and I'm here to help you with this matter.\n\nTo better assist you, could you please provide me with the date of your visit and any specific details related to your insurance plan? With that information, I can look into your billing and see if there were any issues with the claim submission.\n\nAdditionally, it may be helpful to contact your insurance provider directly to inquire about the status of the claim, as they can provide additional insights.\n\nI appreciate your patience, and I look forward to resolving this for you.\n\nBest regards,\n\nDr. Josh Levin  \nJoy Clinic  \n1-800-645-7825"
+  }
+]

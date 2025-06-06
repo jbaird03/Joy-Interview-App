@@ -1,0 +1,31 @@
+[
+    {
+        "id": "e1",
+        "from": "patient_jane@example.com",
+        "patient_name": "Jane Smith",
+        
+        "subject": "Headaches",
+        "body": "Hi, I've been having persistent headaches every evening for the last 3 weeks. What should I do?"
+    },
+    {
+        "id": "e2",
+        "from": "patient_joe@example.com",
+        "patient_name": "Joe Smith",
+        "subject": "Bill",
+        "body": "Hello, I have a question about my bill. It dosn't seem like it was processed through my insurance"
+    },
+    {
+        "id": "e3",
+        "from": "patient_emily@example.com",
+        "patient_name": "Emily Johnson",
+        "subject": "Refill Request",
+        "body": "Hi, I'm running low on my blood pressure medication. Can I get a refill for Lisinopril?"
+    },
+    {
+        "id": "e4",
+        "from": "patient_michael@example.com",
+        "patient_name": "Michael Brown",
+        "subject": "Lab Results",
+        "body": "Good morning, I had some lab work done last week. Are my results available yet?"
+    }
+]
